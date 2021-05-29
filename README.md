@@ -2,15 +2,6 @@
 
 **Užduotis** - sukurti pilnavertę alternatyvą std::vector konteineriui ir atlikti efektyvumo/spartos analizę.
 
-# Turinys #
-
-* Eksperimentiniai Vector klasės tyrimai
-  * [1. Vector konteinerio funkcionalumo patikrinimas](#1.-Vector-konteinerio-funkcionalumo-patikrinimas)
-  * [2. Efektyvumo/spartos analizė naudojant push_back() funkciją](#č.-Efektyvumo/spartos-analizė-naudojant-push_back()-funkciją)
-  * [3. Atminties perskirstymų tyrimas](#3.-Atminties-perskirstymų-tyrimas)
-  * [4. Spartos analizė, programos veikimo palyginimas](#4.-Spartos-analizė,-programos-veikimo-palyginimas)
-
-
 
 ## 1. Vector konteinerio funkcionalumo patikrinimas ##
 
